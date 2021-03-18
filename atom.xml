@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tainted Bits</title>
+  
+  <subtitle>Reverse Engineer&#39;s diary</subtitle>
+  <link href="https://www.taintedbits.com/atom.xml" rel="self"/>
+  
+  <link href="https://www.taintedbits.com/"/>
+  <updated>2021-03-18T06:16:21.676Z</updated>
+  <id>https://www.taintedbits.com/</id>
+  
+  <author>
+    <name>D3xt3r</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ARM Architecture and Shellcode Webinars</title>
+    <link href="https://www.taintedbits.com/2021/02/15/arm-architecture-webinar/"/>
+    <id>https://www.taintedbits.com/2021/02/15/arm-architecture-webinar/</id>
+    <published>2021-02-14T18:30:00.000Z</published>
+    <updated>2021-03-18T06:16:21.676Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;In the past few months I did some webinar on ARM architecture and shellcode, I thought it would be good idea to create a post which has links to all of those webinars.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Binary Exploitation" scheme="https://www.taintedbits.com/categories/Binary-Exploitation/"/>
+    
+    
+    <category term="Linux" scheme="https://www.taintedbits.com/tags/Linux/"/>
+    
+    <category term="Bare-Metal" scheme="https://www.taintedbits.com/tags/Bare-Metal/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Binary Exploitation [pwnable.kr] - (Level 6) random</title>
+    <link href="https://www.taintedbits.com/2020/06/07/binary-exploitation-pwnable-kr-level-6/"/>
+    <id>https://www.taintedbits.com/2020/06/07/binary-exploitation-pwnable-kr-level-6/</id>
+    <published>2020-06-06T18:30:00.000Z</published>
+    <updated>2021-03-11T13:37:13.638Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;Challange-Description&quot;&gt;&lt;a href=&quot;#Challange-Description&quot; class=&quot;headerlink&quot; title=&quot;Challange Description&quot;&gt;&lt;/a&gt;Challange Description&lt;/h1&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;Name&lt;/td&gt;
+&lt;td&gt;random&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Points&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Solves&lt;/td&gt;
+&lt;td&gt;9870 times&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Category&lt;/td&gt;
+&lt;td&gt;Exploitation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Description&lt;/td&gt;
+&lt;td&gt;Daddy, teach me how to use random value in programming!&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="CTF Writeups" scheme="https://www.taintedbits.com/categories/CTF-Writeups/"/>
+    
+    
+    <category term="Linux" scheme="https://www.taintedbits.com/tags/Linux/"/>
+    
+    <category term="pwnable-kr" scheme="https://www.taintedbits.com/tags/pwnable-kr/"/>
+    
+    <category term="CTF" scheme="https://www.taintedbits.com/tags/CTF/"/>
+    
+    <category term="pwnable" scheme="https://www.taintedbits.com/tags/pwnable/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Binary Exploitation [pwnable.kr] - (Level 5) passcode</title>
+    <link href="https://www.taintedbits.com/2020/06/06/binary-exploitation-pwnable-kr-level-5/"/>
+    <id>https://www.taintedbits.com/2020/06/06/binary-exploitation-pwnable-kr-level-5/</id>
+    <published>2020-06-05T18:30:00.000Z</published>
+    <updated>2021-03-11T13:37:09.722Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;Challange-Description&quot;&gt;&lt;a href=&quot;#Challange-Description&quot; class=&quot;headerlink&quot; title=&quot;Challange Description&quot;&gt;&lt;/a&gt;Challange Description&lt;/h1&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;Name&lt;/td&gt;
+&lt;td&gt;random&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Points&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Solves&lt;/td&gt;
+&lt;td&gt;7513 times&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Category&lt;/td&gt;
+&lt;td&gt;Exploitation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Description&lt;/td&gt;
+&lt;td&gt;Mommy told me to make a passcode based login system. My initial C code was compiled without any error! Well, there was some compiler warning, but who cares about that?&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="CTF Writeups" scheme="https://www.taintedbits.com/categories/CTF-Writeups/"/>
+    
+    
+    <category term="Linux" scheme="https://www.taintedbits.com/tags/Linux/"/>
+    
+    <category term="pwnable-kr" scheme="https://www.taintedbits.com/tags/pwnable-kr/"/>
+    
+    <category term="CTF" scheme="https://www.taintedbits.com/tags/CTF/"/>
+    
+    <category term="pwnable" scheme="https://www.taintedbits.com/tags/pwnable/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Binary Exploitation [pwnable.kr] - (Level 4) flag</title>
+    <link href="https://www.taintedbits.com/2020/05/17/binary-exploitation-pwnable-kr-level-4/"/>
+    <id>https://www.taintedbits.com/2020/05/17/binary-exploitation-pwnable-kr-level-4/</id>
+    <published>2020-05-16T18:30:00.000Z</published>
+    <updated>2021-03-11T13:36:16.524Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;Challenge-Description&quot;&gt;&lt;a href=&quot;#Challenge-Description&quot; class=&quot;headerlink&quot; title=&quot;Challenge Description&quot;&gt;&lt;/a&gt;Challenge Description&lt;/h1&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;Name&lt;/td&gt;
+&lt;td&gt;flag&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Points&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Solves&lt;/td&gt;
+&lt;td&gt;10695 times&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Category&lt;/td&gt;
+&lt;td&gt;Exploitation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Description&lt;/td&gt;
+&lt;td&gt;Papa brought me a packed present! let’s open it. This is reversing task. all you need is binary&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="CTF Writeups" scheme="https://www.taintedbits.com/categories/CTF-Writeups/"/>
+    
+    
+    <category term="Linux" scheme="https://www.taintedbits.com/tags/Linux/"/>
+    
+    <category term="pwnable-kr" scheme="https://www.taintedbits.com/tags/pwnable-kr/"/>
+    
+    <category term="CTF" scheme="https://www.taintedbits.com/tags/CTF/"/>
+    
+    <category term="pwnable" scheme="https://www.taintedbits.com/tags/pwnable/"/>
+    
+    <category term="Exploitation" scheme="https://www.taintedbits.com/tags/Exploitation/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Binary Exploitation [pwnable.kr] - (Level 3) BOF</title>
+    <link href="https://www.taintedbits.com/2020/05/16/binary-exploitation-pwnable-kr-level-3/"/>
+    <id>https://www.taintedbits.com/2020/05/16/binary-exploitation-pwnable-kr-level-3/</id>
+    <published>2020-05-15T18:30:00.000Z</published>
+    <updated>2021-03-11T13:36:10.425Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;Challenge-Description&quot;&gt;&lt;a href=&quot;#Challenge-Description&quot; class=&quot;headerlink&quot; title=&quot;Challenge Description&quot;&gt;&lt;/a&gt;Challenge Description&lt;/h1&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;Name&lt;/td&gt;
+&lt;td&gt;BOF&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Points&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Solves&lt;/td&gt;
+&lt;td&gt;12586 times&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Category&lt;/td&gt;
+&lt;td&gt;Exploitation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Description&lt;/td&gt;
+&lt;td&gt;Nana told me that buffer overflow is one of the most common software vulnerability. Is that true?&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="CTF Writeups" scheme="https://www.taintedbits.com/categories/CTF-Writeups/"/>
+    
+    
+    <category term="Linux" scheme="https://www.taintedbits.com/tags/Linux/"/>
+    
+    <category term="pwnable-kr" scheme="https://www.taintedbits.com/tags/pwnable-kr/"/>
+    
+    <category term="CTF" scheme="https://www.taintedbits.com/tags/CTF/"/>
+    
+    <category term="pwnable" scheme="https://www.taintedbits.com/tags/pwnable/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Binary Exploitation [pwnable.kr] - (Level 2) Collision</title>
+    <link href="https://www.taintedbits.com/2020/05/09/binary-exploitation-pwnable-kr-level-2/"/>
+    <id>https://www.taintedbits.com/2020/05/09/binary-exploitation-pwnable-kr-level-2/</id>
+    <published>2020-05-08T18:30:00.000Z</published>
+    <updated>2021-03-12T05:40:45.071Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;Challenge-Description&quot;&gt;&lt;a href=&quot;#Challenge-Description&quot; class=&quot;headerlink&quot; title=&quot;Challenge Description&quot;&gt;&lt;/a&gt;Challenge Description&lt;/h1&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;Name&lt;/td&gt;
+&lt;td&gt;BOF&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Points&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Solves&lt;/td&gt;
+&lt;td&gt;12586 times&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Category&lt;/td&gt;
+&lt;td&gt;Exploitation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Description&lt;/td&gt;
+&lt;td&gt;Daddy told me about cool MD5 hash collision today. I wanna do something like that too!&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="CTF Writeups" scheme="https://www.taintedbits.com/categories/CTF-Writeups/"/>
+    
+    
+    <category term="Linux" scheme="https://www.taintedbits.com/tags/Linux/"/>
+    
+    <category term="pwnable-kr" scheme="https://www.taintedbits.com/tags/pwnable-kr/"/>
+    
+    <category term="CTF" scheme="https://www.taintedbits.com/tags/CTF/"/>
+    
+    <category term="pwnable" scheme="https://www.taintedbits.com/tags/pwnable/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Binary Exploitation [pwnable.kr] - (Level 1) FD</title>
+    <link href="https://www.taintedbits.com/2020/05/07/binary-exploitation-pwnable-kr-level-1/"/>
+    <id>https://www.taintedbits.com/2020/05/07/binary-exploitation-pwnable-kr-level-1/</id>
+    <published>2020-05-06T18:30:00.000Z</published>
+    <updated>2021-03-11T13:24:52.129Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;Challange-Description&quot;&gt;&lt;a href=&quot;#Challange-Description&quot; class=&quot;headerlink&quot; title=&quot;Challange Description&quot;&gt;&lt;/a&gt;Challange Description&lt;/h1&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;Name&lt;/td&gt;
+&lt;td&gt;FD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Points&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Solves&lt;/td&gt;
+&lt;td&gt;12586 times&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Category&lt;/td&gt;
+&lt;td&gt;Exploitation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Description&lt;/td&gt;
+&lt;td&gt;Mommy! what is a file descriptor in Linux?&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="CTF Writeups" scheme="https://www.taintedbits.com/categories/CTF-Writeups/"/>
+    
+    
+    <category term="Linux" scheme="https://www.taintedbits.com/tags/Linux/"/>
+    
+    <category term="pwnable-kr" scheme="https://www.taintedbits.com/tags/pwnable-kr/"/>
+    
+    <category term="CTF" scheme="https://www.taintedbits.com/tags/CTF/"/>
+    
+    <category term="pwnable" scheme="https://www.taintedbits.com/tags/pwnable/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux Binary Exploitation Series (with pwnable.kr)</title>
+    <link href="https://www.taintedbits.com/2020/04/28/linux-binary-exploitation-series-with-pwnable-kr/"/>
+    <id>https://www.taintedbits.com/2020/04/28/linux-binary-exploitation-series-with-pwnable-kr/</id>
+    <published>2020-04-28T04:24:20.000Z</published>
+    <updated>2021-03-11T10:27:20.877Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;&lt;p&gt;There’s no use talking about the problem unless you talk about the solution.&lt;/p&gt;
+&lt;footer&gt;&lt;strong&gt;Betty Williams&lt;/strong&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;This is a kick-off post for the series of post on &lt;strong&gt;The War Game &lt;a href=&quot;https://pwnable.kr/&quot;&gt;pwnable.kr&lt;/a&gt;&lt;/strong&gt;. It’s focused on Linux Exploitation.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="CTF Writeups" scheme="https://www.taintedbits.com/categories/CTF-Writeups/"/>
+    
+    
+    <category term="Linux" scheme="https://www.taintedbits.com/tags/Linux/"/>
+    
+    <category term="pwnable-kr" scheme="https://www.taintedbits.com/tags/pwnable-kr/"/>
+    
+    <category term="CTF" scheme="https://www.taintedbits.com/tags/CTF/"/>
+    
+    <category term="pwnable" scheme="https://www.taintedbits.com/tags/pwnable/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Testing Linux Heap exploits on different Glibc version (with source-level debugging setup)</title>
+    <link href="https://www.taintedbits.com/2019/09/15/testing-heap-exploit-on-different-glibc-verison/"/>
+    <id>https://www.taintedbits.com/2019/09/15/testing-heap-exploit-on-different-glibc-verison/</id>
+    <published>2019-09-15T09:46:23.000Z</published>
+    <updated>2021-03-11T10:27:20.917Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Recently I am learning about Linux Heap exploitation and I came across some really good Phrack papers and blogs which explained different type of attacks in varying conditions, I have included the link of these blogs and papers in the next section. I also came across an amazing GitHub project &lt;a href=&quot;https://github.com/shellphish/how2heap&quot;&gt;How2Heap&lt;/a&gt; by &lt;strong&gt;shellpish&lt;/strong&gt; team, this project has the example exploit code for various heap exploitation technique of different versions of Glibc out there in public, which help me to get a better understanding of how those attacks played out. That project also included a script to build Glibc with any version of your choice and test the exploit on that version.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Exploitation" scheme="https://www.taintedbits.com/categories/Exploitation/"/>
+    
+    
+    <category term="Linux" scheme="https://www.taintedbits.com/tags/Linux/"/>
+    
+    <category term="glibc" scheme="https://www.taintedbits.com/tags/glibc/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Analyzing the Windows LNK file attack method</title>
+    <link href="https://www.taintedbits.com/2019/02/16/analyzing-the-windows-lnk-file-attack-method/"/>
+    <id>https://www.taintedbits.com/2019/02/16/analyzing-the-windows-lnk-file-attack-method/</id>
+    <published>2019-02-16T02:30:00.000Z</published>
+    <updated>2021-03-11T10:27:20.869Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Recently a friend of mine shared an interesting Malicious sample, it was a Microsoft shortcut file (LNK file) which after clicking(execution) lead to infection, although I was not aware of this type of attack vector before doing a basic research on google I was surprised that there is an increase in this type of attacks since 2017. In this post we will Analysis the LNK file malware and uncover how attacker uses multiple layers of obfuscation to evade AV and finally dropping malicious binary, we will also look into how to de-obfuscate each layer and understand what the code is doing.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Malware Analysis" scheme="https://www.taintedbits.com/categories/Malware-Analysis/"/>
+    
+    
+    <category term="Dropper" scheme="https://www.taintedbits.com/tags/Dropper/"/>
+    
+    <category term="Windows Malware" scheme="https://www.taintedbits.com/tags/Windows-Malware/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Unpacking Grey Energy malware (Service Application DLL)</title>
+    <link href="https://www.taintedbits.com/2018/12/17/unpacking-grey-energy-malware/"/>
+    <id>https://www.taintedbits.com/2018/12/17/unpacking-grey-energy-malware/</id>
+    <published>2018-12-16T18:30:00.000Z</published>
+    <updated>2021-03-11T10:27:20.917Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Recently I stumbled upon malware sample which was part of &lt;em&gt;Grey Energy&lt;/em&gt; malware campaign targeting Ukraine energy infrastructure. I ran the hash of the file on &lt;a href=&quot;https://www.virustotal.com/#/file/15a6f734ca79efc027000dd12f4d3870ccc9f604517b0e700c05b961659308d1/detection&quot;&gt;virutotal&lt;/a&gt; and many of the antiviruses tagged it Grey Energy and I tried to do a little more internet research but didn’t find and analysis on it. As there was no post on this sample so I decided to write one.&lt;br&gt;In the post you will learn the following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How to debug Windows Service Application DLL&lt;/li&gt;
+&lt;li&gt;Learn how to use a &lt;em&gt;EBFE&lt;/em&gt; debugging technique&lt;/li&gt;
+&lt;li&gt;Unpacking a DLL binary&lt;/li&gt;
+&lt;li&gt;How to dump an unpacked in-memory executable&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;File hash&lt;/strong&gt; : 15a6f734ca79efc027000dd12f4d3870ccc9f604517b0e700c05b961659308d1&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Malware Analysis" scheme="https://www.taintedbits.com/categories/Malware-Analysis/"/>
+    
+    
+    <category term="Windows Malware" scheme="https://www.taintedbits.com/tags/Windows-Malware/"/>
+    
+    <category term="Grey Energy" scheme="https://www.taintedbits.com/tags/Grey-Energy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Gandcrab v5.0.3 detail analysis of javascript delivery payload</title>
+    <link href="https://www.taintedbits.com/2018/10/18/gandcrab-detail-analysis-of-js-delivery-payload/"/>
+    <id>https://www.taintedbits.com/2018/10/18/gandcrab-detail-analysis-of-js-delivery-payload/</id>
+    <published>2018-10-18T10:36:23.000Z</published>
+    <updated>2021-03-11T10:27:20.877Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Recently a friend of mine shared with me a Javascript file which on execution resulted in machine been infected by GandCrab ransomeware. Initial through was that it must be the Javascript implementation of ransomeware, but assumption tuned out to be wrong, the code was actually heavily obfuscated and it dropped the actual GandCrab binary (v5.0.3) which did the encryption. The Javascript code did lots of other technology like using Powershell script and ActiveXObject in order to evade detection.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Malware Analysis" scheme="https://www.taintedbits.com/categories/Malware-Analysis/"/>
+    
+    
+    <category term="Windows Malware" scheme="https://www.taintedbits.com/tags/Windows-Malware/"/>
+    
+    <category term="javascript obfuscation" scheme="https://www.taintedbits.com/tags/javascript-obfuscation/"/>
+    
+    <category term="GandCrab" scheme="https://www.taintedbits.com/tags/GandCrab/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Setting up Windows 7 Machine for Kernel Debugging</title>
+    <link href="https://www.taintedbits.com/2018/10/10/setting-up-windows-7-for-kernel-debugging/"/>
+    <id>https://www.taintedbits.com/2018/10/10/setting-up-windows-7-for-kernel-debugging/</id>
+    <published>2018-10-09T18:30:00.000Z</published>
+    <updated>2021-03-11T10:27:20.913Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Recently when I was trying to debug a malicious Windows driver and I had to setup kernel debugging environment, there were various tutorial I found using various configuration VMware, network based. But I wanted something quick and dirty which is what my setup is.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Reverse Engineering" scheme="https://www.taintedbits.com/categories/Reverse-Engineering/"/>
+    
+    
+    <category term="Windows Reversing" scheme="https://www.taintedbits.com/tags/Windows-Reversing/"/>
+    
+    <category term="Kernel Debugging" scheme="https://www.taintedbits.com/tags/Kernel-Debugging/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Decrypting Mirai configuration With radare2 (Part 2)</title>
+    <link href="https://www.taintedbits.com/2018/09/15/decrypting-mirai-configuration-with-radare2-part-2/"/>
+    <id>https://www.taintedbits.com/2018/09/15/decrypting-mirai-configuration-with-radare2-part-2/</id>
+    <published>2018-09-15T10:36:23.000Z</published>
+    <updated>2021-03-11T10:27:20.873Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;This is the &lt;em&gt;third part&lt;/em&gt; of the three-part series about code Emulation for Reversing Malware :&lt;br&gt;&lt;strong&gt;&lt;a href=&quot;/2018/08/15/emulating-decryption-function-with-radare2/&quot; title=&quot;Part 1&quot;&gt;Part 1&lt;/a&gt;&lt;/strong&gt; describes how to use radare2 function emulation along with an exercise of cracking password of function implemented using radare2 python scripting plugin r2pipe.&lt;br&gt;&lt;strong&gt;&lt;a href=&quot;/2018/09/03/decrypting-mirai-configuration-with-radare2-part-1/&quot; title=&quot;Part 2&quot;&gt;Part 2&lt;/a&gt;&lt;/strong&gt; describes how to use the feature to decode a configuration of a Mirai IOT botnet, by implementing the solution in radare python scripting capabilities.&lt;br&gt;&lt;strong&gt;&lt;a href=&quot;/2018/09/15/decrypting-mirai-configuration-with-radare2-part-2/&quot; title=&quot;Part 3&quot;&gt;Part 3&lt;/a&gt;&lt;/strong&gt; improves the script created in the previous by adding more features of searching for addresses of encrypted string and creating function signature to search for decryption function instead of using the hard-coded address of the function.&lt;/p&gt;
+&lt;p&gt;In the previous two posts we looked at how to emulate a string decryption function call and we created a radare2 macro and python script to use that emulation, we also managed to decrypt some configuration, but not all. In this post we will continue to improve the script, we will continue with the problem finding the address of encrypted data in the previous post and use those address to decrypt the configuration. There another interesting problem I came across when testing this script on the other variant of Mirai samples, the decryption function was not present at the same address as in the previous binary, all thought the function implementation was the same, well I managed to fix that by creating function signature other cool feature of radare. We will also explore many other features improve the script and make it more portable such that if the sample is using the same decryption method then our python script should be able to decrypt the configuration. Let get right into it.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Reverse Engineering" scheme="https://www.taintedbits.com/categories/Reverse-Engineering/"/>
+    
+    
+    <category term="Malware Analysis" scheme="https://www.taintedbits.com/tags/Malware-Analysis/"/>
+    
+    <category term="Linux Malware" scheme="https://www.taintedbits.com/tags/Linux-Malware/"/>
+    
+    <category term="radare2" scheme="https://www.taintedbits.com/tags/radare2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Decrypting Mirai configuration With radare2 (Part 1)</title>
+    <link href="https://www.taintedbits.com/2018/09/03/decrypting-mirai-configuration-with-radare2-part-1/"/>
+    <id>https://www.taintedbits.com/2018/09/03/decrypting-mirai-configuration-with-radare2-part-1/</id>
+    <published>2018-09-03T10:36:23.000Z</published>
+    <updated>2021-03-11T10:27:20.873Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;This is the &lt;em&gt;second part&lt;/em&gt; of the three-part series about code Emulation for Reversing Malware :&lt;br&gt;&lt;strong&gt;&lt;a href=&quot;/2018/08/15/emulating-decryption-function-with-radare2/&quot; title=&quot;Part 1&quot;&gt;Part 1&lt;/a&gt;&lt;/strong&gt; describes how to use radare2 function emulation along with an exercise of cracking password of function implemented using radare2 python scripting plugin r2pipe.&lt;br&gt;&lt;strong&gt;&lt;a href=&quot;/2018/09/03/decrypting-mirai-configuration-with-radare2-part-1/&quot; title=&quot;Part 2&quot;&gt;Part 2&lt;/a&gt;&lt;/strong&gt; describes how to use the feature to decode a configuration of a Mirai IOT botnet, by implementing the solution in radare python scripting capabilities.&lt;br&gt;&lt;strong&gt;&lt;a href=&quot;/2018/09/15/decrypting-mirai-configuration-with-radare2-part-2/&quot; title=&quot;Part 3&quot;&gt;Part 3&lt;/a&gt;&lt;/strong&gt; improves the script created in the previous by adding more features of searching for addresses of encrypted string and creating function signature to search for decryption function instead of using the hard-coded address of the function.&lt;/p&gt;
+&lt;p&gt;In the &lt;a href=&quot;/2018/08/15/emulating-decryption-function-with-radare2/&quot; title=&quot;previous post&quot;&gt;previous post&lt;/a&gt; we looked at how to we can use partial code emulation to decrypt a string in a binary. In this post we will take an example of a popular Linux IOT malware Mirai, the reason for choosing this particular malware is it stores its configuration like CNC server, port etc in encrypted form. Mirai botnet is cross-architecture so for this post we will reverse the x86 architecture version of the binary. The main goal of this post is to automate the configuration decryption using radare2. We will also use radare2 for static analysis of the binary and to reverse a little bit of decryption function.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Reverse Engineering" scheme="https://www.taintedbits.com/categories/Reverse-Engineering/"/>
+    
+    
+    <category term="Malware Analysis" scheme="https://www.taintedbits.com/tags/Malware-Analysis/"/>
+    
+    <category term="Linux Malware" scheme="https://www.taintedbits.com/tags/Linux-Malware/"/>
+    
+    <category term="radare2" scheme="https://www.taintedbits.com/tags/radare2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Reversing Bushido IOT botnet by ZullSec</title>
+    <link href="https://www.taintedbits.com/2018/09/02/reversing-bushido-iot-botnet-by-zullsec/"/>
+    <id>https://www.taintedbits.com/2018/09/02/reversing-bushido-iot-botnet-by-zullsec/</id>
+    <published>2018-09-02T10:36:23.000Z</published>
+    <updated>2021-03-11T10:27:20.905Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Yet another Linux Botnet sample by the name of &lt;em&gt;Bushido&lt;/em&gt; by a group called 0ffsecurity, but this time things are little interesting, the bad actor is not just interested in using compromised IOT device as DOS attack surface but also using compromised web servers. In this post, we will examine how a small infection shell script which leads to the unravelling of dozens of malware. Solving this case also uncovered the hacker group behind this malware.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Malware Analysis" scheme="https://www.taintedbits.com/categories/Malware-Analysis/"/>
+    
+    
+    <category term="Linux Malware" scheme="https://www.taintedbits.com/tags/Linux-Malware/"/>
+    
+    <category term="radare2" scheme="https://www.taintedbits.com/tags/radare2/"/>
+    
+    <category term="Reverse Engineering" scheme="https://www.taintedbits.com/tags/Reverse-Engineering/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Emulating decryption function with radare2</title>
+    <link href="https://www.taintedbits.com/2018/08/15/emulating-decryption-function-with-radare2/"/>
+    <id>https://www.taintedbits.com/2018/08/15/emulating-decryption-function-with-radare2/</id>
+    <published>2018-08-14T18:30:00.000Z</published>
+    <updated>2021-03-11T10:27:20.877Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;This is the &lt;em&gt;first part&lt;/em&gt; of the three-part series about code Emulation for Reversing Malware :&lt;br&gt;&lt;strong&gt;&lt;a href=&quot;/2018/08/15/emulating-decryption-function-with-radare2/&quot; title=&quot;Part 1&quot;&gt;Part 1&lt;/a&gt;&lt;/strong&gt; describes how to use radare2 function emulation along with an exercise of cracking password of function implemented using radare2 python scripting plugin r2pipe.&lt;br&gt;&lt;strong&gt;&lt;a href=&quot;/2018/09/03/decrypting-mirai-configuration-with-radare2-part-1/&quot; title=&quot;Part 2&quot;&gt;Part 2&lt;/a&gt;&lt;/strong&gt; describes how to use the feature to decode a configuration of a Mirai IOT botnet, by implementing the solution in radare python scripting capabilities.&lt;br&gt;&lt;strong&gt;&lt;a href=&quot;/2018/09/15/decrypting-mirai-configuration-with-radare2-part-2/&quot; title=&quot;Part 3&quot;&gt;Part 3&lt;/a&gt;&lt;/strong&gt; improves the script created in the previous by adding more features of searching for addresses of encrypted string and creating function signature to search for decryption function instead of using the hard-coded address of the function.&lt;/p&gt;
+&lt;p&gt;radare2 is reverse engineering tool that can be very useful to reverse engineer malware or any type of binary as it supports many CPU architectures. One of the most striking features I found about radare is the partial code emulation. I was initially sceptical about this feature what could it be actually used for but think it about for a while and playing with that feature I realized its potential, it’s simply amazing.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Reverse Engineering" scheme="https://www.taintedbits.com/categories/Reverse-Engineering/"/>
+    
+    
+    <category term="Malware Analysis" scheme="https://www.taintedbits.com/tags/Malware-Analysis/"/>
+    
+    <category term="Python" scheme="https://www.taintedbits.com/tags/Python/"/>
+    
+    <category term="radare2" scheme="https://www.taintedbits.com/tags/radare2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Lets Emacs in 21st Century</title>
+    <link href="https://www.taintedbits.com/2018/04/12/lets-emacs-in-21st-century/"/>
+    <id>https://www.taintedbits.com/2018/04/12/lets-emacs-in-21st-century/</id>
+    <published>2018-04-12T14:24:43.000Z</published>
+    <updated>2021-03-11T10:27:20.877Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Text processing software also called editor (by coders) are very important part of programmers or a writers day to day activity. Optimizing your workflow can help you to be more productive. Don’t confuse productivity with getting more work done, it actually quite the opposite. It’s about getting the same amount of work done in less time and effort and in the best case getting more work done with even less effort. So by this definition of productivity, our editor should help us to produce the same amount of work with less keystrokes. There are lots of editors out that which are trying to help you be more productive but nothing comes close to Emacs. Emacs is an editor you can program and customize the way you want. The purpose of this post is to motivate you to get started and evangelize you to make Emacs as your primary editor.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Brain Logs" scheme="https://www.taintedbits.com/categories/Brain-Logs/"/>
+    
+    
+    <category term="Emacs" scheme="https://www.taintedbits.com/tags/Emacs/"/>
+    
+    <category term="Dev" scheme="https://www.taintedbits.com/tags/Dev/"/>
+    
+    <category term="Editor" scheme="https://www.taintedbits.com/tags/Editor/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Reshaping Dataframe using Pivot and Melt in Apache Spark and pandas</title>
+    <link href="https://www.taintedbits.com/2018/03/25/reshaping-dataframe-using-pivot-and-melt-in-apache-spark-and-pandas/"/>
+    <id>https://www.taintedbits.com/2018/03/25/reshaping-dataframe-using-pivot-and-melt-in-apache-spark-and-pandas/</id>
+    <published>2018-03-25T06:55:36.000Z</published>
+    <updated>2021-03-11T10:27:20.905Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Data cleaning is one of the most important and tedious part of data science workflow often mentioned but least discussed topic. Reflecting on my daily workflow, task of reshaping DataFrame is the very common operation I often do to get the data in desired format. Reshaping dataframe means transformation of the table structure, may be remove/adding of columns/rows or doing some aggregations on certains rows and produce a new column to summerize the aggregation result. In this post I won’t cover everything about reshaping, but I will discuss two most frequently used operations i.e. &lt;strong&gt;pivot&lt;/strong&gt; and &lt;strong&gt;melt&lt;/strong&gt;. The solutions I discuss are in spark to be more specific pyspark and I will give you brief solution for pandas but if you want detail explanation of pandas solution I would recommend you to read &lt;a href=&quot;/2017/12/04/data-cleaning-in-python-using-pandas/&quot; title=&quot;this post&quot;&gt;this post&lt;/a&gt;.&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Python" scheme="https://www.taintedbits.com/tags/Python/"/>
+    
+    <category term="Data Wrangling" scheme="https://www.taintedbits.com/tags/Data-Wrangling/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Data cleaning in python using pandas</title>
+    <link href="https://www.taintedbits.com/2017/12/04/data-cleaning-in-python-using-pandas/"/>
+    <id>https://www.taintedbits.com/2017/12/04/data-cleaning-in-python-using-pandas/</id>
+    <published>2017-12-04T05:14:04.000Z</published>
+    <updated>2021-03-11T10:27:20.873Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Data cleaning is a very important part of any data science project as data scientist spend 80% of their time is this step of the project. But not very much attentions is given to the cleaning process and not much research efforts are put to create any sort of framework recently I came across an amazing paper titled as &lt;strong&gt;Tidy data&lt;/strong&gt; by &lt;strong&gt;Hadley Wickham&lt;/strong&gt; in &lt;em&gt;Journal of Statistical Software&lt;/em&gt; in which he talks about common problems one might encounter in data cleaning and what a Tidy data looks like I couldn’t agree more to him, he has also created a R package &lt;em&gt;reshape&lt;/em&gt; and &lt;em&gt;reshape2&lt;/em&gt; for data cleaning, but the problem was the paper had very little to no code I also found the code version of the paper but it was in &lt;em&gt;R&lt;/em&gt;, while most of my data cleaning work is done in pandas, I had to translate all those R solutions to pandas equivalent, so in this post the I will summarize all the main idea of the paper that the author suggests in the paper and also how we can solve it in pandas.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Machine Learning" scheme="https://www.taintedbits.com/categories/Machine-Learning/"/>
+    
+    
+    <category term="Python" scheme="https://www.taintedbits.com/tags/Python/"/>
+    
+    <category term="Data Wrangling" scheme="https://www.taintedbits.com/tags/Data-Wrangling/"/>
+    
+  </entry>
+  
+</feed>
