@@ -38,6 +38,360 @@
   </entry>
   
   <entry>
+    <title>Binary Exploitation [pwnable.tw] - Tcache Tear</title>
+    <link href="https://www.taintedbits.com/2020/07/18/binary-exploitation-pwnable-tw-tcache-tear/"/>
+    <id>https://www.taintedbits.com/2020/07/18/binary-exploitation-pwnable-tw-tcache-tear/</id>
+    <published>2020-07-17T18:30:00.000Z</published>
+    <updated>2021-06-07T07:03:12.672Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;Challange-Description&quot;&gt;&lt;a href=&quot;#Challange-Description&quot; class=&quot;headerlink&quot; title=&quot;Challange Description&quot;&gt;&lt;/a&gt;Challange Description&lt;/h1&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;Name&lt;/td&gt;
+&lt;td&gt;Tcache Tear&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Points&lt;/td&gt;
+&lt;td&gt;200&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Solves&lt;/td&gt;
+&lt;td&gt;433 times&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Libc&lt;/td&gt;
+&lt;td&gt;2.27&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Category&lt;/td&gt;
+&lt;td&gt;Exploitation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Description&lt;/td&gt;
+&lt;td&gt;Make tcache great again !&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="CTF Writeups" scheme="https://www.taintedbits.com/categories/CTF-Writeups/"/>
+    
+    
+    <category term="Linux" scheme="https://www.taintedbits.com/tags/Linux/"/>
+    
+    <category term="CTF" scheme="https://www.taintedbits.com/tags/CTF/"/>
+    
+    <category term="pwnable" scheme="https://www.taintedbits.com/tags/pwnable/"/>
+    
+    <category term="Exploitation" scheme="https://www.taintedbits.com/tags/Exploitation/"/>
+    
+    <category term="pwnable-tw" scheme="https://www.taintedbits.com/tags/pwnable-tw/"/>
+    
+    <category term="Heap Exploitation" scheme="https://www.taintedbits.com/tags/Heap-Exploitation/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Binary Exploitation [pwnable.tw] - CAOV</title>
+    <link href="https://www.taintedbits.com/2020/07/12/binary-exploitation-pwnable-tw-caov/"/>
+    <id>https://www.taintedbits.com/2020/07/12/binary-exploitation-pwnable-tw-caov/</id>
+    <published>2020-07-11T18:30:00.000Z</published>
+    <updated>2021-06-07T07:03:12.535Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;Challange-Description&quot;&gt;&lt;a href=&quot;#Challange-Description&quot; class=&quot;headerlink&quot; title=&quot;Challange Description&quot;&gt;&lt;/a&gt;Challange Description&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;Name&lt;/td&gt;
+&lt;td&gt;CAOV&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Points&lt;/td&gt;
+&lt;td&gt;350&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Solves&lt;/td&gt;
+&lt;td&gt;134 times&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Libc&lt;/td&gt;
+&lt;td&gt;2.23&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Category&lt;/td&gt;
+&lt;td&gt;Exploitation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Description&lt;/td&gt;
+&lt;td&gt;What does “CAOV” stands for?&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="CTF Writeups" scheme="https://www.taintedbits.com/categories/CTF-Writeups/"/>
+    
+    
+    <category term="Linux" scheme="https://www.taintedbits.com/tags/Linux/"/>
+    
+    <category term="CTF" scheme="https://www.taintedbits.com/tags/CTF/"/>
+    
+    <category term="pwnable" scheme="https://www.taintedbits.com/tags/pwnable/"/>
+    
+    <category term="pwnable-tw" scheme="https://www.taintedbits.com/tags/pwnable-tw/"/>
+    
+    <category term="WarGames" scheme="https://www.taintedbits.com/tags/WarGames/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Binary Exploitation [pwnable.tw] - Spirited Away</title>
+    <link href="https://www.taintedbits.com/2020/07/11/binary-exploitation-pwnable-tw-spirited-away/"/>
+    <id>https://www.taintedbits.com/2020/07/11/binary-exploitation-pwnable-tw-spirited-away/</id>
+    <published>2020-07-10T18:30:00.000Z</published>
+    <updated>2021-06-07T07:03:12.640Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;Challange-Description&quot;&gt;&lt;a href=&quot;#Challange-Description&quot; class=&quot;headerlink&quot; title=&quot;Challange Description&quot;&gt;&lt;/a&gt;Challange Description&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;Name&lt;/td&gt;
+&lt;td&gt;Spirited Away&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Points&lt;/td&gt;
+&lt;td&gt;300&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Libc&lt;/td&gt;
+&lt;td&gt;2.23&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Solves&lt;/td&gt;
+&lt;td&gt;457 times&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Category&lt;/td&gt;
+&lt;td&gt;Exploitation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Description&lt;/td&gt;
+&lt;td&gt;Thanks for watching Spirited Away ! Please leave some comments to help us improve our next movie !&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="CTF Writeups" scheme="https://www.taintedbits.com/categories/CTF-Writeups/"/>
+    
+    
+    <category term="Linux" scheme="https://www.taintedbits.com/tags/Linux/"/>
+    
+    <category term="CTF" scheme="https://www.taintedbits.com/tags/CTF/"/>
+    
+    <category term="pwnable" scheme="https://www.taintedbits.com/tags/pwnable/"/>
+    
+    <category term="pwnable-tw" scheme="https://www.taintedbits.com/tags/pwnable-tw/"/>
+    
+    <category term="WarGames" scheme="https://www.taintedbits.com/tags/WarGames/"/>
+    
+    <category term="Heap Exploitation" scheme="https://www.taintedbits.com/tags/Heap-Exploitation/"/>
+    
+    <category term="ROP" scheme="https://www.taintedbits.com/tags/ROP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Binary Exploitation [pwnable.tw] - Realloc</title>
+    <link href="https://www.taintedbits.com/2020/07/05/binary-exploitation-pwnable-tw-realloc/"/>
+    <id>https://www.taintedbits.com/2020/07/05/binary-exploitation-pwnable-tw-realloc/</id>
+    <published>2020-07-04T18:30:00.000Z</published>
+    <updated>2021-06-07T07:03:12.605Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;Challange-Description&quot;&gt;&lt;a href=&quot;#Challange-Description&quot; class=&quot;headerlink&quot; title=&quot;Challange Description&quot;&gt;&lt;/a&gt;Challange Description&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;Name&lt;/td&gt;
+&lt;td&gt;Realloc&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Points&lt;/td&gt;
+&lt;td&gt;200&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Solves&lt;/td&gt;
+&lt;td&gt;115 times&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Libc&lt;/td&gt;
+&lt;td&gt;2.29 (with tcache enabled)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Category&lt;/td&gt;
+&lt;td&gt;Exploitation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Description&lt;/td&gt;
+&lt;td&gt;I want to realloc my life :)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="CTF Writeups" scheme="https://www.taintedbits.com/categories/CTF-Writeups/"/>
+    
+    
+    <category term="Linux" scheme="https://www.taintedbits.com/tags/Linux/"/>
+    
+    <category term="CTF" scheme="https://www.taintedbits.com/tags/CTF/"/>
+    
+    <category term="pwnable" scheme="https://www.taintedbits.com/tags/pwnable/"/>
+    
+    <category term="pwnable-tw" scheme="https://www.taintedbits.com/tags/pwnable-tw/"/>
+    
+    <category term="WarGames" scheme="https://www.taintedbits.com/tags/WarGames/"/>
+    
+    <category term="Heap Exploitation" scheme="https://www.taintedbits.com/tags/Heap-Exploitation/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Binary Exploitation [pwnable.tw] - BabyStack</title>
+    <link href="https://www.taintedbits.com/2020/07/04/binary-exploitation-pwnable-tw-babystack/"/>
+    <id>https://www.taintedbits.com/2020/07/04/binary-exploitation-pwnable-tw-babystack/</id>
+    <published>2020-07-03T18:30:00.000Z</published>
+    <updated>2021-06-07T07:03:12.483Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;Challange-Description&quot;&gt;&lt;a href=&quot;#Challange-Description&quot; class=&quot;headerlink&quot; title=&quot;Challange Description&quot;&gt;&lt;/a&gt;Challange Description&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;Name&lt;/td&gt;
+&lt;td&gt;BabyStack&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Points&lt;/td&gt;
+&lt;td&gt;250&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Solves&lt;/td&gt;
+&lt;td&gt;455 times&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Category&lt;/td&gt;
+&lt;td&gt;Exploitation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Description&lt;/td&gt;
+&lt;td&gt;Can you find the password in the stack?&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="CTF Writeups" scheme="https://www.taintedbits.com/categories/CTF-Writeups/"/>
+    
+    
+    <category term="Linux" scheme="https://www.taintedbits.com/tags/Linux/"/>
+    
+    <category term="CTF" scheme="https://www.taintedbits.com/tags/CTF/"/>
+    
+    <category term="pwnable" scheme="https://www.taintedbits.com/tags/pwnable/"/>
+    
+    <category term="pwnable-tw" scheme="https://www.taintedbits.com/tags/pwnable-tw/"/>
+    
+    <category term="WarGames" scheme="https://www.taintedbits.com/tags/WarGames/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Binary Exploitation [pwnable.tw] - Secret Garden</title>
+    <link href="https://www.taintedbits.com/2020/06/13/binary-exploitation-pwnable-tw-level-secretgarden/"/>
+    <id>https://www.taintedbits.com/2020/06/13/binary-exploitation-pwnable-tw-level-secretgarden/</id>
+    <published>2020-06-12T18:30:00.000Z</published>
+    <updated>2021-06-07T07:03:12.571Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;Challange-Description&quot;&gt;&lt;a href=&quot;#Challange-Description&quot; class=&quot;headerlink&quot; title=&quot;Challange Description&quot;&gt;&lt;/a&gt;Challange Description&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;Name&lt;/td&gt;
+&lt;td&gt;Secret Garden&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Points&lt;/td&gt;
+&lt;td&gt;350&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Solves&lt;/td&gt;
+&lt;td&gt;458 times&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Libc&lt;/td&gt;
+&lt;td&gt;2.23&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Category&lt;/td&gt;
+&lt;td&gt;Exploitation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Description&lt;/td&gt;
+&lt;td&gt;Find the flag in the garden&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="CTF Writeups" scheme="https://www.taintedbits.com/categories/CTF-Writeups/"/>
+    
+    
+    <category term="Linux" scheme="https://www.taintedbits.com/tags/Linux/"/>
+    
+    <category term="CTF" scheme="https://www.taintedbits.com/tags/CTF/"/>
+    
+    <category term="pwnable" scheme="https://www.taintedbits.com/tags/pwnable/"/>
+    
+    <category term="pwnable-tw" scheme="https://www.taintedbits.com/tags/pwnable-tw/"/>
+    
+    <category term="WarGames" scheme="https://www.taintedbits.com/tags/WarGames/"/>
+    
+    <category term="Heap Exploitation" scheme="https://www.taintedbits.com/tags/Heap-Exploitation/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Binary Exploitation [pwnable.kr] - (Level 6) random</title>
     <link href="https://www.taintedbits.com/2020/06/07/binary-exploitation-pwnable-kr-level-6/"/>
     <id>https://www.taintedbits.com/2020/06/07/binary-exploitation-pwnable-kr-level-6/</id>
@@ -514,140 +868,6 @@
     <category term="Linux Malware" scheme="https://www.taintedbits.com/tags/Linux-Malware/"/>
     
     <category term="radare2" scheme="https://www.taintedbits.com/tags/radare2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Decrypting Mirai configuration With radare2 (Part 1)</title>
-    <link href="https://www.taintedbits.com/2018/09/03/decrypting-mirai-configuration-with-radare2-part-1/"/>
-    <id>https://www.taintedbits.com/2018/09/03/decrypting-mirai-configuration-with-radare2-part-1/</id>
-    <published>2018-09-03T10:36:23.000Z</published>
-    <updated>2021-03-11T10:27:20.873Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;This is the &lt;em&gt;second part&lt;/em&gt; of the three-part series about code Emulation for Reversing Malware :&lt;br&gt;&lt;strong&gt;&lt;a href=&quot;/2018/08/15/emulating-decryption-function-with-radare2/&quot; title=&quot;Part 1&quot;&gt;Part 1&lt;/a&gt;&lt;/strong&gt; describes how to use radare2 function emulation along with an exercise of cracking password of function implemented using radare2 python scripting plugin r2pipe.&lt;br&gt;&lt;strong&gt;&lt;a href=&quot;/2018/09/03/decrypting-mirai-configuration-with-radare2-part-1/&quot; title=&quot;Part 2&quot;&gt;Part 2&lt;/a&gt;&lt;/strong&gt; describes how to use the feature to decode a configuration of a Mirai IOT botnet, by implementing the solution in radare python scripting capabilities.&lt;br&gt;&lt;strong&gt;&lt;a href=&quot;/2018/09/15/decrypting-mirai-configuration-with-radare2-part-2/&quot; title=&quot;Part 3&quot;&gt;Part 3&lt;/a&gt;&lt;/strong&gt; improves the script created in the previous by adding more features of searching for addresses of encrypted string and creating function signature to search for decryption function instead of using the hard-coded address of the function.&lt;/p&gt;
-&lt;p&gt;In the &lt;a href=&quot;/2018/08/15/emulating-decryption-function-with-radare2/&quot; title=&quot;previous post&quot;&gt;previous post&lt;/a&gt; we looked at how to we can use partial code emulation to decrypt a string in a binary. In this post we will take an example of a popular Linux IOT malware Mirai, the reason for choosing this particular malware is it stores its configuration like CNC server, port etc in encrypted form. Mirai botnet is cross-architecture so for this post we will reverse the x86 architecture version of the binary. The main goal of this post is to automate the configuration decryption using radare2. We will also use radare2 for static analysis of the binary and to reverse a little bit of decryption function.&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Reverse Engineering" scheme="https://www.taintedbits.com/categories/Reverse-Engineering/"/>
-    
-    
-    <category term="Malware Analysis" scheme="https://www.taintedbits.com/tags/Malware-Analysis/"/>
-    
-    <category term="Linux Malware" scheme="https://www.taintedbits.com/tags/Linux-Malware/"/>
-    
-    <category term="radare2" scheme="https://www.taintedbits.com/tags/radare2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Reversing Bushido IOT botnet by ZullSec</title>
-    <link href="https://www.taintedbits.com/2018/09/02/reversing-bushido-iot-botnet-by-zullsec/"/>
-    <id>https://www.taintedbits.com/2018/09/02/reversing-bushido-iot-botnet-by-zullsec/</id>
-    <published>2018-09-02T10:36:23.000Z</published>
-    <updated>2021-03-11T10:27:20.905Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;Yet another Linux Botnet sample by the name of &lt;em&gt;Bushido&lt;/em&gt; by a group called 0ffsecurity, but this time things are little interesting, the bad actor is not just interested in using compromised IOT device as DOS attack surface but also using compromised web servers. In this post, we will examine how a small infection shell script which leads to the unravelling of dozens of malware. Solving this case also uncovered the hacker group behind this malware.&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Malware Analysis" scheme="https://www.taintedbits.com/categories/Malware-Analysis/"/>
-    
-    
-    <category term="Linux Malware" scheme="https://www.taintedbits.com/tags/Linux-Malware/"/>
-    
-    <category term="radare2" scheme="https://www.taintedbits.com/tags/radare2/"/>
-    
-    <category term="Reverse Engineering" scheme="https://www.taintedbits.com/tags/Reverse-Engineering/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Emulating decryption function with radare2</title>
-    <link href="https://www.taintedbits.com/2018/08/15/emulating-decryption-function-with-radare2/"/>
-    <id>https://www.taintedbits.com/2018/08/15/emulating-decryption-function-with-radare2/</id>
-    <published>2018-08-14T18:30:00.000Z</published>
-    <updated>2021-03-11T10:27:20.877Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;This is the &lt;em&gt;first part&lt;/em&gt; of the three-part series about code Emulation for Reversing Malware :&lt;br&gt;&lt;strong&gt;&lt;a href=&quot;/2018/08/15/emulating-decryption-function-with-radare2/&quot; title=&quot;Part 1&quot;&gt;Part 1&lt;/a&gt;&lt;/strong&gt; describes how to use radare2 function emulation along with an exercise of cracking password of function implemented using radare2 python scripting plugin r2pipe.&lt;br&gt;&lt;strong&gt;&lt;a href=&quot;/2018/09/03/decrypting-mirai-configuration-with-radare2-part-1/&quot; title=&quot;Part 2&quot;&gt;Part 2&lt;/a&gt;&lt;/strong&gt; describes how to use the feature to decode a configuration of a Mirai IOT botnet, by implementing the solution in radare python scripting capabilities.&lt;br&gt;&lt;strong&gt;&lt;a href=&quot;/2018/09/15/decrypting-mirai-configuration-with-radare2-part-2/&quot; title=&quot;Part 3&quot;&gt;Part 3&lt;/a&gt;&lt;/strong&gt; improves the script created in the previous by adding more features of searching for addresses of encrypted string and creating function signature to search for decryption function instead of using the hard-coded address of the function.&lt;/p&gt;
-&lt;p&gt;radare2 is reverse engineering tool that can be very useful to reverse engineer malware or any type of binary as it supports many CPU architectures. One of the most striking features I found about radare is the partial code emulation. I was initially sceptical about this feature what could it be actually used for but think it about for a while and playing with that feature I realized its potential, it’s simply amazing.&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Reverse Engineering" scheme="https://www.taintedbits.com/categories/Reverse-Engineering/"/>
-    
-    
-    <category term="Malware Analysis" scheme="https://www.taintedbits.com/tags/Malware-Analysis/"/>
-    
-    <category term="Python" scheme="https://www.taintedbits.com/tags/Python/"/>
-    
-    <category term="radare2" scheme="https://www.taintedbits.com/tags/radare2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Lets Emacs in 21st Century</title>
-    <link href="https://www.taintedbits.com/2018/04/12/lets-emacs-in-21st-century/"/>
-    <id>https://www.taintedbits.com/2018/04/12/lets-emacs-in-21st-century/</id>
-    <published>2018-04-12T14:24:43.000Z</published>
-    <updated>2021-03-11T10:27:20.877Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;Text processing software also called editor (by coders) are very important part of programmers or a writers day to day activity. Optimizing your workflow can help you to be more productive. Don’t confuse productivity with getting more work done, it actually quite the opposite. It’s about getting the same amount of work done in less time and effort and in the best case getting more work done with even less effort. So by this definition of productivity, our editor should help us to produce the same amount of work with less keystrokes. There are lots of editors out that which are trying to help you be more productive but nothing comes close to Emacs. Emacs is an editor you can program and customize the way you want. The purpose of this post is to motivate you to get started and evangelize you to make Emacs as your primary editor.&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Brain Logs" scheme="https://www.taintedbits.com/categories/Brain-Logs/"/>
-    
-    
-    <category term="Emacs" scheme="https://www.taintedbits.com/tags/Emacs/"/>
-    
-    <category term="Dev" scheme="https://www.taintedbits.com/tags/Dev/"/>
-    
-    <category term="Editor" scheme="https://www.taintedbits.com/tags/Editor/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Reshaping Dataframe using Pivot and Melt in Apache Spark and pandas</title>
-    <link href="https://www.taintedbits.com/2018/03/25/reshaping-dataframe-using-pivot-and-melt-in-apache-spark-and-pandas/"/>
-    <id>https://www.taintedbits.com/2018/03/25/reshaping-dataframe-using-pivot-and-melt-in-apache-spark-and-pandas/</id>
-    <published>2018-03-25T06:55:36.000Z</published>
-    <updated>2021-03-11T10:27:20.905Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;Data cleaning is one of the most important and tedious part of data science workflow often mentioned but least discussed topic. Reflecting on my daily workflow, task of reshaping DataFrame is the very common operation I often do to get the data in desired format. Reshaping dataframe means transformation of the table structure, may be remove/adding of columns/rows or doing some aggregations on certains rows and produce a new column to summerize the aggregation result. In this post I won’t cover everything about reshaping, but I will discuss two most frequently used operations i.e. &lt;strong&gt;pivot&lt;/strong&gt; and &lt;strong&gt;melt&lt;/strong&gt;. The solutions I discuss are in spark to be more specific pyspark and I will give you brief solution for pandas but if you want detail explanation of pandas solution I would recommend you to read &lt;a href=&quot;/2017/12/04/data-cleaning-in-python-using-pandas/&quot; title=&quot;this post&quot;&gt;this post&lt;/a&gt;.&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="Python" scheme="https://www.taintedbits.com/tags/Python/"/>
-    
-    <category term="Data Wrangling" scheme="https://www.taintedbits.com/tags/Data-Wrangling/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Data cleaning in python using pandas</title>
-    <link href="https://www.taintedbits.com/2017/12/04/data-cleaning-in-python-using-pandas/"/>
-    <id>https://www.taintedbits.com/2017/12/04/data-cleaning-in-python-using-pandas/</id>
-    <published>2017-12-04T05:14:04.000Z</published>
-    <updated>2021-03-11T10:27:20.873Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;Data cleaning is a very important part of any data science project as data scientist spend 80% of their time is this step of the project. But not very much attentions is given to the cleaning process and not much research efforts are put to create any sort of framework recently I came across an amazing paper titled as &lt;strong&gt;Tidy data&lt;/strong&gt; by &lt;strong&gt;Hadley Wickham&lt;/strong&gt; in &lt;em&gt;Journal of Statistical Software&lt;/em&gt; in which he talks about common problems one might encounter in data cleaning and what a Tidy data looks like I couldn’t agree more to him, he has also created a R package &lt;em&gt;reshape&lt;/em&gt; and &lt;em&gt;reshape2&lt;/em&gt; for data cleaning, but the problem was the paper had very little to no code I also found the code version of the paper but it was in &lt;em&gt;R&lt;/em&gt;, while most of my data cleaning work is done in pandas, I had to translate all those R solutions to pandas equivalent, so in this post the I will summarize all the main idea of the paper that the author suggests in the paper and also how we can solve it in pandas.&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Machine Learning" scheme="https://www.taintedbits.com/categories/Machine-Learning/"/>
-    
-    
-    <category term="Python" scheme="https://www.taintedbits.com/tags/Python/"/>
-    
-    <category term="Data Wrangling" scheme="https://www.taintedbits.com/tags/Data-Wrangling/"/>
     
   </entry>
   

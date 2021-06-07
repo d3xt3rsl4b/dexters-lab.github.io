@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.taintedbits.com/2020/07/18/binary-exploitation-pwnable-tw-tcache-tear/</loc>
+    
+    <lastmod>2021-06-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.taintedbits.com/2020/07/11/binary-exploitation-pwnable-tw-spirited-away/</loc>
+    
+    <lastmod>2021-06-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.taintedbits.com/2020/07/05/binary-exploitation-pwnable-tw-realloc/</loc>
+    
+    <lastmod>2021-06-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.taintedbits.com/2020/06/13/binary-exploitation-pwnable-tw-level-secretgarden/</loc>
+    
+    <lastmod>2021-06-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.taintedbits.com/2020/07/12/binary-exploitation-pwnable-tw-caov/</loc>
+    
+    <lastmod>2021-06-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.taintedbits.com/2020/07/04/binary-exploitation-pwnable-tw-babystack/</loc>
+    
+    <lastmod>2021-06-07</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.taintedbits.com/2021/02/15/arm-architecture-webinar/</loc>
     
     <lastmod>2021-03-18</lastmod>
@@ -100,14 +142,14 @@
   </url>
   
   <url>
-    <loc>https://www.taintedbits.com/about/index.html</loc>
+    <loc>https://www.taintedbits.com/categories/index.html</loc>
     
     <lastmod>2021-03-11</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.taintedbits.com/categories/index.html</loc>
+    <loc>https://www.taintedbits.com/about/index.html</loc>
     
     <lastmod>2021-03-11</lastmod>
     
@@ -242,7 +284,7 @@
 
   <url>
     <loc>https://www.taintedbits.com/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -250,210 +292,238 @@
   
   <url>
     <loc>https://www.taintedbits.com/tags/Linux/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/pwnable-kr/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/CTF/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/pwnable/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/Exploitation/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.taintedbits.com/tags/pwnable-tw/</loc>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/Windows-Reversing/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/Malware-Analysis/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/Dropper/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/Windows-Malware/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/Arduino/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/ESP8266/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/Bare-Metal/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/Python/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/Data-Wrangling/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/Linux-Malware/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/radare2/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/Emacs/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/Dev/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/Editor/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.taintedbits.com/tags/WarGames/</loc>
+    <lastmod>2021-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.taintedbits.com/tags/Heap-Exploitation/</loc>
+    <lastmod>2021-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.taintedbits.com/tags/ROP/</loc>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/ACS712/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/Kernel-Debugging/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/glibc/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/Chat-Bots/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/Grey-Energy/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/javascript-obfuscation/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/GandCrab/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/Classification/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/Regression/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/Reverse-Engineering/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/tags/Visualization/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -462,63 +532,63 @@
   
   <url>
     <loc>https://www.taintedbits.com/categories/Reverse-Engineering/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/categories/Malware-Analysis/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/categories/Exploitation/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/categories/CTF-Writeups/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/categories/IoT/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/categories/Binary-Exploitation/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/categories/Machine-Learning/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/categories/Brain-Logs/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.taintedbits.com/categories/NLP/</loc>
-    <lastmod>2021-03-18</lastmod>
+    <lastmod>2021-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
